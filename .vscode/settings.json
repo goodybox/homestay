@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "/Users/yoo/.local/share/virtualenvs/airbnb-clone-Dy1upxfd/bin/python",
+  "python.linting.flake8Enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "python.formatting.provider": "black",
+  "python.linting.flake8Args": [
+    "--max-line-length=88"
+  ],
+  "git.ignoreLimitWarning": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "airbnb-clone",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "tailwindcss": "^1.2.0"
+  },
+  "scripts": {
+    "css": "gulp"
+  }
+}

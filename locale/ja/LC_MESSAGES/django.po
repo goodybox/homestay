@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-17 22:29+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: templates/base.html:21
+msgid "Search by City"
+msgstr "都市で検索"
+
+#: templates/partials/nav.html:7
+msgid "Stop hosting"
+msgstr "ホスティングを停止"
+
+#: templates/partials/nav.html:9
+msgid "Start hosting"
+msgstr "ホスティング開始"
+
+#: templates/partials/nav.html:14
+msgid "Create Room"
+msgstr "部屋の作成"
+
+#: templates/partials/nav.html:16
+msgid "Favs"
+msgstr "お気に入り"
+
+#: templates/partials/nav.html:17
+msgid "Profile"
+msgstr "プロフィール"
+
+#: templates/partials/nav.html:18
+msgid "Log out"
+msgstr "ログアウト"
+
+#: templates/partials/nav.html:20
+msgid "Log in"
+msgstr "ログイン"
+
+#: templates/partials/nav.html:21 templates/users/login.html:21
+msgid "Sign up"
+msgstr "登録"
+
+#: templates/rooms/room_detail.html:33
+#, fuzzy
+#| msgid "Save to Favourites"
+msgid "Remove from Favourites"
+msgstr "お気に入りに削除"
+
+#: templates/rooms/room_detail.html:35
+msgid "Save to Favourites"
+msgstr "お気に入りに追加"
+
+#: templates/rooms/room_list.html:27
+#, python-format
+msgid "Page %(current_page)s of %(total_pages)s"
+msgstr "ページ %(current_page)s of %(total_pages)s"
+
+#: templates/users/login.html:4
+#, fuzzy
+#| msgid "Log in"
+msgid "Log In"
+msgstr "ログイン"
+
+#: templates/users/login.html:20
+msgid "Don't have an account?"
+msgstr "アカウントがありませんか"
+
+#: users/mixins.py:22
+msgid "Can't go there"
+msgstr "移動不可"
+
+#: users/models.py:20
+msgid "Male"
+msgstr "男性"
+
+#: users/models.py:21
+msgid "Female"
+msgstr "女性"
+
+#: users/models.py:22
+msgid "Other"
+msgstr "その他"
+
+#: users/models.py:29
+msgid "English"
+msgstr "英語"
+
+#: users/models.py:30
+msgid "Korean"
+msgstr "韓国語"
+
+#: users/models.py:49
+msgid "gender"
+msgstr "性別"
+
+#: users/models.py:51
+msgid "bio"
+msgstr "bio"
+
+#: users/models.py:57
+msgid "language"
+msgstr "言語"
+
+#: users/models.py:81
+msgid "Verify Homestay Account"
+msgstr "アカウント 確認"
