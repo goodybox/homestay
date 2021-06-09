@@ -11,7 +11,7 @@ autopep8 = "*"
 django-seed = "*"
 
 [packages]
-django = "==2.2.5"
+django = "==2.2.22"
 pillow = "*"
 django-countries = "*"
 django-seed = "*"
